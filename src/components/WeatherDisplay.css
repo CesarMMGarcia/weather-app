@@ -1,0 +1,30 @@
+.weather-display{
+    padding: 25px;
+}
+
+.weather-display.red{
+    background-color: red;
+}
+.weather-display.orange{
+    background-color:orange;
+}
+.weather-display.aliceblue{
+    background-color: aliceblue;
+}
+.weather-display.blue{
+    background-color: blue;
+}
+
+
+.weather-display i.cloud{
+    color:rgb(71,151,254);
+}
+.weather-display i.sun outline{
+    color: rgb(254,181,71);
+}
+.weather-display i.snowflake{
+    color: rgb(152,214,250);
+}
+.weather-display i.tint{
+    color:rgb(91,125,203);
+}
